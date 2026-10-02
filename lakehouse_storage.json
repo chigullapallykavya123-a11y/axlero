@@ -1,0 +1,90 @@
+[
+    {
+        "snapshot_id": "snap_1790928036",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_201",
+            "tax_amount": 15.0,
+            "payment_method": "Credit Card"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928036",
+        "table": "DLQ_Table",
+        "data": {
+            "transaction_id": "txn_202",
+            "tax_amount": null,
+            "payment_method": "PayPal"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928163",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_136260",
+            "timestamp": "2026-10-02T13:32:43.554768",
+            "user_id": "user_2337",
+            "category": "Books",
+            "quantity": 3,
+            "unit_price": 388.06,
+            "tax_amount": 17.47,
+            "payment_method": "Debit Card"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928164",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_182742",
+            "timestamp": "2026-10-02T13:32:44.067282",
+            "user_id": "user_2777",
+            "category": "Books",
+            "quantity": 2,
+            "unit_price": 494.19,
+            "tax_amount": 9.04,
+            "payment_method": "Credit Card"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928164",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_412903",
+            "timestamp": "2026-10-02T13:32:44.572741",
+            "user_id": "user_4179",
+            "category": "Books",
+            "quantity": 2,
+            "unit_price": 130.01,
+            "tax_amount": 12.26,
+            "payment_method": "Debit Card"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928165",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_162541",
+            "timestamp": "2026-10-02T13:32:45.082250",
+            "user_id": "user_1586",
+            "category": "Electronics",
+            "quantity": 4,
+            "unit_price": 29.35,
+            "tax_amount": 16.68,
+            "payment_method": "PayPal"
+        }
+    },
+    {
+        "snapshot_id": "snap_1790928165",
+        "table": "Main_Transactions_Table",
+        "data": {
+            "transaction_id": "txn_933281",
+            "timestamp": "2026-10-02T13:32:45.589634",
+            "user_id": "user_1363",
+            "category": "Sports",
+            "quantity": 5,
+            "unit_price": 421.32,
+            "tax_amount": 8.41,
+            "payment_method": "PayPal"
+        }
+    }
+]
